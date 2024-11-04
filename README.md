@@ -21,14 +21,12 @@ Below are some of my projects. You can navigate through them by clicking on the 
 ### [Project 1: Fast_Food_Stock_Price_Analysis_and_Prediction](https://github.com/aam1rkhan/Fast_Food_Stock_Price_Analysis_and_Prediction)
 Brief description of Project 1. Highlight the main tools or technologies used and the primary objective.
 
-### [Project 2: Project Title](https://github.com/yourusername/project2)
+### [Project 2: LinkedIn_Anlaytics](https://github.com/aam1rkhan/LinkedIn_Anlaytics)
 Brief description of Project 2. Include key achievements or unique features of the project.
 
-### [Project 3: Project Title](https://github.com/yourusername/project3)
+### [Project 3: World_Electricity_Data_Analysis](https://github.com/aam1rkhan/World_Electricity_Data_Analysis)
 Brief description of Project 3. Mention any specific challenges solved or insights achieved.
 
-### [Project 4: Project Title](https://github.com/yourusername/project4)
-Brief description of Project 4. Highlight any impactful results or the practical application of the project.
 
 ---
 
