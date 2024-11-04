@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring Data Analyst with expertise in Python, SQL, Power BI, and machine learning. Skilled in Generative AI for complex problem-solving and data visualization. Driven to transform insights into impactful solutions.</h3>
 
 - 📫 How to reach me **aamir11khan11@gmail.com**
+- You can view and download my **RESUME** [here](https://resume-builder-test-new.masaischool.com/resume/?resumeId=6729366d6f511f3183f62240&profileId=self&templateName=TwoColumnMinimal&fontSize=medium).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
