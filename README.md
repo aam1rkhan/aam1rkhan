@@ -19,13 +19,13 @@ Below are some of my projects. You can navigate through them by clicking on the 
 ## Projects
 
 ### [Project 1: Fast_Food_Stock_Price_Analysis_and_Prediction](https://github.com/aam1rkhan/Fast_Food_Stock_Price_Analysis_and_Prediction)
-Brief description of Project 1. Highlight the main tools or technologies used and the primary objective.
+This project is designed to analyze stock market data for various fast food companies. It involves fetching historical and real-time stock data, inserting this data into a SQL database, and using Power BI to create a dashboard for visualization.
 
 ### [Project 2: LinkedIn_Anlaytics](https://github.com/aam1rkhan/LinkedIn_Anlaytics)
-Brief description of Project 2. Include key achievements or unique features of the project.
+This project involves scraping and analyzing LinkedIn data to uncover job distribution insights across India, including job availability by city, applicant volume, and company follower count—helping users assess opportunities with startups versus large MNCs.
 
 ### [Project 3: World_Electricity_Data_Analysis](https://github.com/aam1rkhan/World_Electricity_Data_Analysis)
-Brief description of Project 3. Mention any specific challenges solved or insights achieved.
+In this project, we analyzed electricity data for 216 countries, transforming JSON data from the client into a clean, merged CSV format. We then used Power BI to generate key insights.
 
 
 ---
